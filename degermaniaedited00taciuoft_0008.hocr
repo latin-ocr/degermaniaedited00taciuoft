@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./degermaniaedited00taciuoft_0008.png"; bbox 0 0 2309 3807; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1016 1618 1207 1681">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1016 1618 1207 1681">
+     <span class='ocr_line' id='line_1_1' title="bbox 1016 1618 1207 1681; baseline 0.005 -12"><span class='ocrx_word' id='word_1_1' title='bbox 1016 1618 1207 1681; x_wconf 69' lang='lat' dir='ltr'>Oxfotb</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 571 1728 1680 1770">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 571 1728 1680 1770">
+     <span class='ocr_line' id='line_1_2' title="bbox 571 1728 1680 1770; baseline 0.012 -14"><span class='ocrx_word' id='word_1_2' title='bbox 571 1728 817 1758; x_wconf 82' lang='lat' dir='ltr'>PRINTED</span> <span class='ocrx_word' id='word_1_3' title='bbox 858 1731 920 1760; x_wconf 92' lang='lat' dir='ltr'>AT</span> <span class='ocrx_word' id='word_1_4' title='bbox 962 1731 1071 1760; x_wconf 87' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_5' title='bbox 1114 1733 1462 1766; x_wconf 87' lang='lat' dir='ltr'><strong>CLARENDON</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1507 1737 1680 1770; x_wconf 81' lang='lat' dir='ltr'>PRESS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 655 1812 1583 1843">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 655 1812 1583 1843">
+     <span class='ocr_line' id='line_1_3' title="bbox 655 1812 1583 1843; baseline 0.012 -11"><span class='ocrx_word' id='word_1_7' title='bbox 655 1812 700 1833; x_wconf 80' lang='grc' dir='ltr'>ΒΥ</span> <span class='ocrx_word' id='word_1_8' title='bbox 719 1812 868 1835; x_wconf 73' lang='lat' dir='ltr'>HORACE</span> <span class='ocrx_word' id='word_1_9' title='bbox 887 1814 994 1841; x_wconf 71' lang='lat' dir='ltr'>HART,</span> <span class='ocrx_word' id='word_1_10' title='bbox 1017 1815 1177 1838; x_wconf 79' lang='lat' dir='ltr'>PRINTER</span> <span class='ocrx_word' id='word_1_11' title='bbox 1196 1817 1242 1840; x_wconf 86' lang='lat' dir='ltr'>TO</span> <span class='ocrx_word' id='word_1_12' title='bbox 1261 1818 1337 1840; x_wconf 79' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_13' title='bbox 1357 1820 1583 1843; x_wconf 77' lang='lat' dir='ltr'>UNIVERSITY</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
